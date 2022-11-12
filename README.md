@@ -1,7 +1,25 @@
-### Hi there 👋
+<html>
+ 
+<body>
+IKSopnil
+
+### Hi there 👋 <br>
+😴 I’m currently working on sleeping more ...<br>
+💬 Ask me about food 🥫... <br>
+😁😁😁<br>
+
+
+![](https://komarev.com/ghpvc/?username=IKSopnil&color=dc143c)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKSopnil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+STAT 
+
+
+  ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=IKSopnil&show_icons=true&theme=radical)
 
 <!--
-**Hasibul-Hasan-Hasib/Hasibul-Hasan-Hasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IKSopnil/IKSopnil is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
