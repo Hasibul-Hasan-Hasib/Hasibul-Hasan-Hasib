@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hourent](https://hourent-8a405.web.app/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **THREE JS**
 
 - 📫 How to reach me **hsb.hasibulhasan@gmail.com**
 
